@@ -4,7 +4,7 @@ In this repository, I implement a PINN (Physics-Informed Neural Network) to solv
 
 ∂U/∂t + U∂U/∂x = μ∂²U/∂x² 
 
-For simplification, we have neglected the effect of viscosity (μ), setting it to 0. The initial condition is defined as:
+For simplification, we have neglected the effect of viscosity (μ), setting it to 0 at first. The initial condition is defined as:
 
 - **U(x, 0) = sin(πx)**, for x ∈ (0,1)
 
