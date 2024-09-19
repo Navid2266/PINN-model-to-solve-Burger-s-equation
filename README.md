@@ -26,4 +26,7 @@ Also For more on PINNs, you can check out these resources by Maziar Raissi:
 
 # Results
 
-As demonstrated in the provided image, the model accurately predicts the solution to the equation, with a mean squared error of only 0.05. The PINN effectively captures the dynamics of the system while adhering to the given constraints.
+As demonstrated in the provided image, the model accurately predicts the solution to the equation, with a mean squared error of only 0.05. The PINN effectively captures the dynamics of the system.
+
+
+![image](https://github.com/user-attachments/assets/f06a0117-8bff-4fcf-a3c9-7b09102c962f)
